@@ -10,4 +10,4 @@ First word in forein to you language, second - tranclate to it.
 ***Warning! space=space - necessarily***
 
 It will probably look like this:
-![изображение](https://user-images.githubusercontent.com/88889884/173244084-beeefb82-9331-4e85-944a-8f649046d058.png)
+![изображение](https://user-images.githubusercontent.com/88889884/173244121-cc50e1ee-b685-4f45-976a-94d6328a35fd.png)
