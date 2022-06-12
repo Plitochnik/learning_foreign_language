@@ -51,7 +51,7 @@
 
             echo 'Translate: ' . $random_word[$i]; ?><br>
                 <label>
-                    <input type="text" name="<?=$i?>_user_answer" placeholder="Введи слово" class="form-control" size="40">
+                    <input type="text" name="<?=$i?>_user_answer" placeholder="Put the word" class="form-control" size="40">
                 </label><br>
             <?php } ?>
             <button type="submit" class="bg-indigo-500">Check</button>
