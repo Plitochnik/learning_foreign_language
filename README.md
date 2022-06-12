@@ -7,11 +7,8 @@ First word in forein to you language, second - tranclate to it.
 
 ***Example(Italian)***
 acqua = water;
-
 uomo = man;
-
 donna = wimen; 
-
 sole = sun;
 
 
