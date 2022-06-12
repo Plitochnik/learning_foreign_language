@@ -1,0 +1,4 @@
+acqua = water;
+uomo = man;
+donna = wimen;
+sole = sun;
