@@ -2,6 +2,7 @@
 # Program can help you to check your any language skills 
 
 In directory you have to put in ***words.txt***  words that will be in your test.
+And then program will mix it in random order.
 
 First word in forein to you language, second - tranclate to it.
 
